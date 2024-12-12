@@ -40,6 +40,8 @@ La IA ha transformado la manera en que se gestionan y mitigan los riesgos de seg
 
         **d) Compatibilidad Multiplataforma:** Proporciona seguridad tanto para entornos locales como para servicios en la nube.
 
+        Para mas info sobre **Deep Instinct** pulsa [aquí](https://www.deepinstinct.com/).
+
 - **Respuesta Automática:** Una vez identificada una amenaza, la IA puede implementar respuestas automáticas, como bloquear accesos no autorizados o aislar sistemas comprometidos.
 
 - **Autenticación Biométrica:** Tecnologías como el reconocimiento facial, de voz y de huellas dactilares utilizan IA para verificar identidades de manera segura.
