@@ -1,4 +1,4 @@
-# Inteligencia Artificial en el Campo de la Informática: Gestión de la Seguretat
+# Inteligencia Artificial en el Campo de la Informática: Gestión de la Seguridad
 
 **Alumno:** Biel Riera                
 **Profesor:** Meritxell  
