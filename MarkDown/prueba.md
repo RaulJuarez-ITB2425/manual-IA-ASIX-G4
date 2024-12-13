@@ -71,38 +71,38 @@ A contrinuacion indicare que servicios ofrece, una pequeña descripcion y como s
 
 El impacto que tenemos con la IA en este sector son muchos beneficios a nivel interno, a nivel empresarial, aunque si es verdad que debemos de tener en cuenta que estos servicios, dependiendo de que empresa y las caracterisitcas que tenga tendra un precio mas o menos elevado.
 
-    El principal impacto es la eficiencia y eficacia.
-    Una de sus caracterisitcas es su eficaz ya que podemos conseguir por ejemplo atender un numero de llamadas en concreto al dia o en el tiempo que teniamos planeado.
-    Por otro lado tambien es eficiente ya que podemos conseguir atender multiples llamadas, con menos recursos. Podriamos poner el ejemplo de que podemos atender X numero de llamadas al dia, pero el costo seria tener el 90% de los trabajadores en ese canpo, pero gracias a la IA este porcentaje bajaria muchisimo, depende de cual sea podria quitarnos una carga de trabajo facilmente de un 70 o 80%.
+El principal impacto es la eficiencia y eficacia.
+Una de sus caracterisitcas es su eficaz ya que podemos conseguir por ejemplo atender un numero de llamadas en concreto al dia o en el tiempo que teniamos planeado.
+Por otro lado tambien es eficiente ya que podemos conseguir atender multiples llamadas, con menos recursos. Podriamos poner el ejemplo de que podemos atender X numero de llamadas al dia, pero el costo seria tener el 90% de los trabajadores en ese canpo, pero gracias a la IA este porcentaje bajaria muchisimo, depende de cual sea podria quitarnos una carga de trabajo facilmente de un 70 o 80%.
 
-    Los clientes dispondran de una mejor experiencia gracias a las respuestas que se le da de manera mas rapida y precisa.
+Los clientes dispondran de una mejor experiencia gracias a las respuestas que se le da de manera mas rapida y precisa.
 
-    Lo que deberiamos de destinar en tiempo y dinero es en formar al personal para que sepan usar y sacar el maximo provecho a esta ultima tecnologia, o sino de buscar personas con conocimientos, con experiencia en este sector. 
+Lo que deberiamos de destinar en tiempo y dinero es en formar al personal para que sepan usar y sacar el maximo provecho a esta ultima tecnologia, o sino de buscar personas con conocimientos, con experiencia en este sector. 
 
 ## Impacto ambiental
 
-    Podemos tener un gran impacto al sector pero por otro lado en el lado ambiental no esta muy bien...
+Podemos tener un gran impacto al sector pero por otro lado en el lado ambiental no esta muy bien...
 
-    Al tener este servicio, nos ayudara, pero a la vez tendremos un gasto mayor a lo que energia se refiere, ya que estos servicios
-    consumen demasiada potencia
+Al tener este servicio, nos ayudara, pero a la vez tendremos un gasto mayor a lo que energia se refiere, ya que estos servicios
+consumen demasiada potencia
 
-    Dependiendo de como este configurado el servidor o incluso el propio ordenador no seria capaz de poder ejecutar el programa corerctamente, y por ende habria que hacer un gasto mayor y esto conllevaria a tener que aumentar los residuos eletronicos 
+Dependiendo de como este configurado el servidor o incluso el propio ordenador no seria capaz de poder ejecutar el programa corerctamente, y por ende habria que hacer un gasto mayor y esto conllevaria a tener que aumentar los residuos eletronicos 
 
 ## Propuestas para minimizar los impactos ambientales 
 
-    Una propuesta seria buscar una configuracion que tenga la misma potencia pero gastando menos recursos, es decir buscar optimizar, la energia.
+Una propuesta seria buscar una configuracion que tenga la misma potencia pero gastando menos recursos, es decir buscar optimizar, la energia.
 
-    Por otro lado seria intentar disponer de equipos que no se deban de cambiar hasta nuevo aviso, ya sea porque el equipo es muy antiguo o porque los programas actuales no disponen de las caracteristicas minimas para ejecutarlos.
+Por otro lado seria intentar disponer de equipos que no se deban de cambiar hasta nuevo aviso, ya sea porque el equipo es muy antiguo o porque los programas actuales no disponen de las caracteristicas minimas para ejecutarlos.
 
 ## Conclusión 
-    La capacidad de automatizar tareas repetitivas, brindar respuestas rápidas y precisas a los clientes y optimizar la gestión de incidencias ha permitido a las empresas mejorar su eficiencia operativa y la satisfacción del cliente.
+La capacidad de automatizar tareas repetitivas, brindar respuestas rápidas y precisas a los clientes y optimizar la gestión de incidencias ha permitido a las empresas mejorar su eficiencia operativa y la satisfacción del cliente.
     
-    Herramientas como FreshDesk, FreshChat, FreshCaller y FreshDesk Omni demuestran el poder de la IA en proporcionar soluciones integrales que no solo facilitan el trabajo de los agentes de soporte, sino que también proporcionan una experiencia de usuario superior. La integración de la IA en estas plataformas permite una mejor gestión del tiempo y los recursos, ofreciendo beneficios tanto para las empresas como para los clientes.
+Herramientas como FreshDesk, FreshChat, FreshCaller y FreshDesk Omni demuestran el poder de la IA en proporcionar soluciones integrales que no solo facilitan el trabajo de los agentes de soporte, sino que también proporcionan una experiencia de usuario superior. La integración de la IA en estas plataformas permite una mejor gestión del tiempo y los recursos, ofreciendo beneficios tanto para las empresas como para los clientes.
     
-    Sin embargo, debemos ser conscientes de los impactos ambientales de estas tecnologías, especialmente en términos de consumo energético y producción de residuos electrónicos. Es crucial implementar prácticas sostenibles que minimicen estos efectos negativos, como la optimización del uso de energía y la promoción del reciclaje y reutilización de equipos electrónicos.
+Sin embargo, debemos ser conscientes de los impactos ambientales de estas tecnologías, especialmente en términos de consumo energético y producción de residuos electrónicos. Es crucial implementar prácticas sostenibles que minimicen estos efectos negativos, como la optimización del uso de energía y la promoción del reciclaje y reutilización de equipos electrónicos.
     
-    En resumen, la Inteligencia Artificial en el soporte técnico no solo mejora la eficiencia y la satisfacción del cliente, sino que también presenta desafíos ambientales que debemos abordar con responsabilidad. Con un enfoque equilibrado, podemos aprovechar al máximo las ventajas de la IA mientras mitigamos sus impactos negativos, asegurando un futuro más sostenible y eficiente para el sector del soporte técnico.
+En resumen, la Inteligencia Artificial en el soporte técnico no solo mejora la eficiencia y la satisfacción del cliente, sino que también presenta desafíos ambientales que debemos abordar con responsabilidad. Con un enfoque equilibrado, podemos aprovechar al máximo las ventajas de la IA mientras mitigamos sus impactos negativos, asegurando un futuro más sostenible y eficiente para el sector del soporte técnico.
 
 
- [Arriba](#índice)
+[Arriba](#índice)
      
