@@ -1,3 +1,4 @@
+<div style="display: flex; margin: 0 auto; flex-direction: column; width: 100%; max-width: 1100px">
 # Inteligencia Artificial en el Campo de la Informática: Desarrollo
 
 **Alumno:** Raúl Juárez  
@@ -17,9 +18,8 @@ La inteligencia artificial (IA) en el ámbito del desarrollo de software está t
 
 ## Aplicaciones de la IA
 
-<div style="float: right; margin-left: 20px;">
-  <img src="../Imagenes/LogoGitHubCopitlot.png" alt="Logo de GitHub Copilot" width="200">
-</div>
+<div style="margin-left: 20px;">
+  <img src="../Imagenes/LogoGitHubCopitlot.png" alt="Logo de GitHub Copilot" width="250" style="float: right; margin-left: 20px;">
 
 Un ejemplo destacado de IA aplicada al desarrollo de software es **GitHub Copilot**, que te ayuda a escribir código más rápido y con menos esfuerzo. 
 
@@ -60,4 +60,4 @@ Para mitigar los efectos negativos en el medio ambiente, se pueden adoptar las s
 
 ## Conclusión
 La IA está cambiando radicalmente el desarrollo de software, proporcionando herramientas que incrementan la productividad y la calidad del producto final. Sin embargo, este progreso debe ser equilibrado con estrategias sostenibles que reduzcan su impacto ambiental, asegurando un desarrollo tecnológico responsable.
-
+</div>
