@@ -63,8 +63,7 @@ A contrinuacion indicare que servicios ofrece, una pequeña descripcion y como s
    FreshCaller es un sistema de telefonía en la nube que se integra con FreshDesk y FreshChat. Permite gestionar llamadas de soporte al cliente, establecer horarios de atención, grabar llamadas, y realizar informes detallados sobre las interacciones telefónicas con los clientes.
    Ademas tener una IA que la podemos congiruar para que respondan las preguntas mas frecuentes, con esto reduciremos el tiempo de espera.
 
-   <img src="https://media.tekpon.com/2024/02/Freshcaller-Logo.webp" alt="FreshCaller" width="500" height="500">
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRly4lKtRuB3UinKg9x_IBxMOSPrCtpjH6c-w&s" alt="FreshCaller" widht="500" height="500">
 
 ## Impacto al Sector
 
