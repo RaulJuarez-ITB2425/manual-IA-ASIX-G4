@@ -18,7 +18,7 @@ En este documento exploramos el impacto de la inteligencia artificial (IA) en el
 
 ## Aplicaciones de Power BI con IA integrada  
 <div style="text-align: left;">
-  <img src="../imagenes/power-bi-2021.png" alt="Descripción de la imagen" style="width:50%; height:auto%;">
+  <img src="../manual-IA-ASIX-G4/poweria.png" alt="Descripción de la imagen" style="width:50%; height:auto%;">
 </div>
 Power BI, con sus avanzadas capacidades de inteligencia artificial, ha transformado cómo las empresas gestionan y analizan datos. Estas son algunas de sus principales aplicaciones:  
 
@@ -74,3 +74,4 @@ Para mitigar los impactos ambientales asociados al uso de IA, se pueden implemen
 ## Conclusión  
 Power BI, con sus capacidades de IA integrada, ha transformado el análisis de datos, permitiendo a las empresas ser más eficientes, innovadoras y ágiles. Sin embargo, es crucial abordar los impactos ambientales asociados a estas tecnologías mediante propuestas sostenibles y responsables, garantizando así un equilibrio entre el progreso tecnológico y la preservación del medio ambiente.  
 
+  
