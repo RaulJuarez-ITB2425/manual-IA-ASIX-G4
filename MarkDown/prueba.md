@@ -18,7 +18,7 @@
 
 Actualmente, la tecnología está presente en todos los aspectos de nuestra vida diaria, desde los smartphones hasta las Smart TV. Estamos rodeados de tecnología, pero no todo es siempre perfecto, ya que también pueden ocurrir errores. 
 
-<img src="https://cdn.goconqr.com/uploads/media/image/33327993/desktop_79070c19-0252-4744-8b07-927be8855a22.png" alt="Evolución" widht="500" height="200">
+<img src="https://www.enriquedans.com/wp-content/uploads/2024/09/Evolution-of-AI.jpg" alt="Evolución" widht="500" height="200">
 
 Por ello, existen call centers y soporte técnico para resolver problemas o dudas. Sin embargo, debido a la alta demanda de asistencia, a veces no hay suficientes personas para cubrir todos los casos. Algunas llamadas tienen mayor prioridad que otras, lo que puede generar tiempos de espera. Es en este contexto donde entra la Inteligencia Artificial (IA), que ha revolucionado el sector en los últimos años.
 
