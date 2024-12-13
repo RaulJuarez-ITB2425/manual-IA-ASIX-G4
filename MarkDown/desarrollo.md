@@ -1,4 +1,5 @@
 <div style="display: flex; margin: 0 auto; flex-direction: column; width: 100%; max-width: 1100px">
+
 # Inteligencia Artificial en el Campo de la Informática: Desarrollo
 
 **Alumno:** Raúl Juárez  
@@ -19,21 +20,23 @@ La inteligencia artificial (IA) en el ámbito del desarrollo de software está t
 ## Aplicaciones de la IA
 
 <div style="margin-left: 20px;">
-  <img src="../Imagenes/LogoGitHubCopitlot.png" alt="Logo de GitHub Copilot" width="250" style="float: right; margin-left: 20px;">
+  <img src="../Imagenes/LogoGitHubCopitlot.png" alt="Logo de GitHub Copilot" width="200" style="float: right; margin-left: 20px;">
 
-Un ejemplo destacado de IA aplicada al desarrollo de software es **GitHub Copilot**, que te ayuda a escribir código más rápido y con menos esfuerzo. 
+  Un ejemplo destacado de IA aplicada al desarrollo de software es **GitHub Copilot**, que te ayuda a escribir código más rápido y con menos esfuerzo. 
 
-Ayuda a los desarrolladores en diferentes tareas clave como:
+  Ayuda a los desarrolladores en diferentes tareas clave como:
 
-- **Autocompletado Inteligente:** Sugiere líneas de código y estructuras completas basadas en el contexto del archivo actual.
-- **Generación de Funciones:** A partir de descripciones en lenguaje natural, Copilot puede crear funciones que cumplan con los requisitos planteados.
-- **Detección de Errores Comunes:** Identifica posibles problemas en el código mientras se escribe, mejorando la calidad desde el inicio.
-- **Optimización de Código Existente:** Propone refactorizaciones para hacer el código más limpio, eficiente y legible.
-- **Compatibilidad Multilenguaje:** Admite una amplia gama de lenguajes de programación, lo que lo convierte en una herramienta versátil para equipos diversos.
+  - **Autocompletado Inteligente:** Sugiere líneas de código y estructuras completas basadas en el contexto del archivo actual.
+  - **Generación de Funciones:** A partir de descripciones en lenguaje natural, Copilot puede crear funciones que cumplan con los requisitos planteados.
+  - **Detección de Errores Comunes:** Identifica posibles problemas en el código mientras se escribe, mejorando la calidad desde el inicio.
+  - **Optimización de Código Existente:** Propone refactorizaciones para hacer el código más limpio, eficiente y legible.
+  - **Compatibilidad Multilenguaje:** Admite una amplia gama de lenguajes de programación, lo que lo convierte en una herramienta versátil para equipos diversos.
 
-Estas funcionalidades no solo aceleran el desarrollo, sino que también permiten a los programadores enfocarse en tareas más creativas y de mayor valor.
+  Estas funcionalidades no solo aceleran el desarrollo, sino que también permiten a los programadores enfocarse en tareas más creativas y de mayor valor.
 
-Para más información sobre GitHub Copilot pulsa [aquí](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot). 
+  Para más información sobre GitHub Copilot pulsa [aquí](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot).
+</div>
+<img src="../Imagenes/interfazCop.png" alt="Imagen Copitlot" style="border-radius: 10px;">
 
 ## Impacto al Sector
 El impacto de la IA en el desarrollo de software es notable por los siguientes motivos:
