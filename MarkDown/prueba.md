@@ -45,8 +45,7 @@ A contrinuacion indicare que servicios ofrece, una pequeña descripcion y como s
    
    Freddy AI Insights (Beta) --> Los directivos podran obtener informacion en tiempo real, gracias a este asistete de IA, ya que ofrece, analsis, infomres, e incluso responder a preguntas que tengamos, todo esto en vivo.
 
-    <img src="https://salesdorado.com/wp-content/uploads/2022/03/Capture-de%CC%81cran-2022-03-14-a%CC%80-00.10.37.jpg" alt="FreshDesk" widht="
-
+<img src="https://salesdorado.com/wp-content/uploads/2022/03/Capture-de%CC%81cran-2022-03-14-a%CC%80-00.10.37.jpg" alt="FreshDesk" widht="500" height="400">
 2. **FreshDesk Omni**  
    FreshDesk Omni es una versión extendida de FreshDesk que incluye capacidades de omnicanalidad. Permite gestionar tickets, crear, personalizarla o inlcuso asignar un nombre o dirigirlo al grupo que corresponde. 
 
