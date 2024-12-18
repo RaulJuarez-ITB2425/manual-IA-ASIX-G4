@@ -24,7 +24,7 @@ La inteligencia artificial (IA) en el ámbito del desarrollo de software está t
 
   Un ejemplo destacado de IA aplicada al desarrollo de software es **GitHub Copilot**, que te ayuda a escribir código más rápido y con menos esfuerzo. 
 
-  Ayuda a los desarrolladores en diferentes tareas clave como:
+  Da soporte a los desarrolladores en diferentes tareas clave como:
 
   - **Autocompletado Inteligente:** Sugiere líneas de código y estructuras completas basadas en el contexto del archivo actual.
   - **Generación de Funciones:** A partir de descripciones en lenguaje natural, Copilot puede crear funciones que cumplan con los requisitos planteados.
@@ -48,17 +48,17 @@ El impacto de la IA en el desarrollo de software es notable por los siguientes m
 A pesar de estos beneficios, también se plantean desafíos como la dependencia de herramientas externas y la necesidad de garantizar la seguridad en los sistemas generados con IA.
 
 ## Impacto Ambiental
-El uso de IA en el desarrollo también tiene implicaciones ambientales:
+Aunque la IA aporta beneficios tecnológicos, también hay que señalar su alto coste ambiental debido a:
 
-- **Consumo Energético:** Las herramientas de IA para desarrollo requieren potentes infraestructuras para su entrenamiento y ejecución.
-- **Huella de Carbono:** Los servidores que alojan estos sistemas contribuyen a las emisiones globales.
+- **Consumo Energético:** Las herramientas de IA para desarrollo requieren potentes infraestructuras para su entrenamiento y ejecución que consumen grandes cantidades de energia.
+- **Huella de Carbono:** Los servidores que alojan estos sistemas contribuyen a las emisiones globales (como dióxido de carbono)
 
 ## Propuestas para Minimizar los Impactos Ambientales
 Para mitigar los efectos negativos en el medio ambiente, se pueden adoptar las siguientes medidas:
 
 1. **Desarrollo de Herramientas Eficientes:** Crear algoritmos optimizados para requerir menos recursos computacionales.
 2. **Uso de Infraestructura Verde:** Ejecutar herramientas de desarrollo en servidores alimentados por energías renovables.
-3. **Formación en Prácticas Sostenibles:** Capacitar a los desarrolladores para escribir código que maximice la eficiencia y reduzca la redundancia.
+3. **Reutilización de Recursos Computacionales:** Implementar estrategias de reutilización de servidores y hardware, maximizando su vida útil.
 4. **Colaboración Internacional:** Compartir avances tecnológicos para evitar duplicación innecesaria de esfuerzos y recursos.
 
 ## Conclusión
