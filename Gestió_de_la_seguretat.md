@@ -16,7 +16,7 @@
 
 La gestión de la seguridad es una de las áreas más cruciales en la informática, especialmente en un mundo donde las amenazas cibernéticas son cada vez más sofisticadas y frecuentes. Desde la protección de datos personales hasta la prevención de ciberataques en infraestructuras críticas, la seguridad es fundamental para garantizar la integridad y el funcionamiento correcto de los sistemas digitales.
         <div align="center">
-        <img src="./Gestion-de-la-seguridad-informatica-en-la-empresa.jpg" alt="Aplicaciones de la IA" width="400" height="200"/>
+        <img src="./Imagenes/Gestion-de-la-seguridad-informatica-en-la-empresa.jpg" alt="Aplicaciones de la IA" width="400" height="200"/>
         </div>
 
 En este contexto, la Inteligencia Artificial (IA) ha emergido como una herramienta clave. La IA ofrece capacidades para detectar, analizar y responder a amenazas de manera mucho más rápida y precisa que los enfoques tradicionales. Estas herramientas pueden aprender patrones, identificar anomalías y adaptarse a nuevas amenazas sin la intervención constante de un operador humano.
@@ -44,7 +44,7 @@ La IA ha transformado la manera en que se gestionan y mitigan los riesgos de seg
         **d) Compatibilidad Multiplataforma:** Proporciona seguridad tanto para entornos locales como para servicios en la nube.
 
         <div align="center">
-        <img src="./deepinstinct.png" alt="Aplicaciones de la IA" width="400" height="300"/>
+        <img src="./Imagenes/deepinstinct.png" alt="Aplicaciones de la IA" width="400" height="300"/>
         </div>
         
       
