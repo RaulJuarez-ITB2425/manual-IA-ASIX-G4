@@ -18,7 +18,7 @@ En este documento exploramos el impacto de la inteligencia artificial (IA) en el
 
 ## Aplicaciones de Power BI con IA integrada  
 <div style="text-align: center;">
-  <img src="./poweria.png" alt="Descripción de la imagen" style="width:50%; height:auto%;">
+  <img src="./Imagenes/poweria.png" alt="Descripción de la imagen" style="width:50%; height:auto%;">
 </div>
 Power BI, con sus avanzadas capacidades de inteligencia artificial, ha transformado cómo las empresas gestionan y analizan datos. Estas son algunas de sus principales aplicaciones:  
 
