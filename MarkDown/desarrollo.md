@@ -48,19 +48,26 @@ El impacto de la IA en el desarrollo de software es notable por los siguientes m
 A pesar de estos beneficios, también se plantean desafíos como la dependencia de herramientas externas y la necesidad de garantizar la seguridad en los sistemas generados con IA.
 
 ## Impacto Ambiental
-Aunque la IA aporta beneficios tecnológicos, también hay que señalar su alto coste ambiental debido a:
+El uso de IA en el desarrollo también tiene implicaciones ambientales:
 
-- **Consumo Energético:** Las herramientas de IA para desarrollo requieren potentes infraestructuras para su entrenamiento y ejecución que consumen grandes cantidades de energia.
-- **Huella de Carbono:** Los servidores que alojan estos sistemas contribuyen a las emisiones globales (como dióxido de carbono)
+- **Consumo Energético:** Las herramientas de IA para desarrollo requieren potentes infraestructuras para su entrenamiento y ejecución.
+- **Huella de Carbono:** Los servidores que alojan estos sistemas contribuyen a las emisiones globales.
 
 ## Propuestas para Minimizar los Impactos Ambientales
 Para mitigar los efectos negativos en el medio ambiente, se pueden adoptar las siguientes medidas:
 
 1. **Desarrollo de Herramientas Eficientes:** Crear algoritmos optimizados para requerir menos recursos computacionales.
 2. **Uso de Infraestructura Verde:** Ejecutar herramientas de desarrollo en servidores alimentados por energías renovables.
-3. **Reutilización de Recursos Computacionales:** Implementar estrategias de reutilización de servidores y hardware, maximizando su vida útil.
+3. **Formación en Prácticas Sostenibles:** Capacitar a los desarrolladores para escribir código que maximice la eficiencia y reduzca la redundancia.
 4. **Colaboración Internacional:** Compartir avances tecnológicos para evitar duplicación innecesaria de esfuerzos y recursos.
 
 ## Conclusión
 La IA está cambiando radicalmente el desarrollo de software, proporcionando herramientas que incrementan la productividad y la calidad del producto final. Sin embargo, este progreso debe ser equilibrado con estrategias sostenibles que reduzcan su impacto ambiental, asegurando un desarrollo tecnológico responsable.
 </div>
+
+<br>
+<br>
+
+#### ***<span style="color:gray;">Referencias: </span>*** 
+- *https://docs.github.com/en/copilot/quickstart*
+- *https://www.youtube.com/watch?v=jsHAyBmFZlo*
