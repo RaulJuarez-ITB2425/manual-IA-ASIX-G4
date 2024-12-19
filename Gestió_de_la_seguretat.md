@@ -44,7 +44,7 @@ La IA ha transformado la manera en que se gestionan y mitigan los riesgos de seg
         **d) Compatibilidad Multiplataforma:** Proporciona seguridad tanto para entornos locales como para servicios en la nube.
 
         <div align="center">
-        <img src="./Imagenes/deepinstinct.png" alt="Aplicaciones de la IA" width="400" height="300"/>
+        <img src="./Imagenes/deepinstinct.jpg" alt="Aplicaciones de la IA" width="400" height="300"/>
         </div>
         
       
