@@ -17,7 +17,7 @@
 En este documento exploramos el impacto de la inteligencia artificial (IA) en el campo del análisis de datos, con un enfoque en las capacidades de Power BI con IA integrada. Analizaremos sus aplicaciones, el impacto en el sector, sus implicaciones ambientales y propuestas para minimizar estos impactos. ¡Comencemos!  
 
 ## Aplicaciones de Power BI con IA integrada  
-<div style="text-align: left;">
+<div style="text-align: center;">
   <img src="./poweria.png" alt="Descripción de la imagen" style="width:50%; height:auto%;">
 </div>
 Power BI, con sus avanzadas capacidades de inteligencia artificial, ha transformado cómo las empresas gestionan y analizan datos. Estas son algunas de sus principales aplicaciones:  
@@ -53,7 +53,7 @@ La implementación de IA en herramientas como Power BI ha tenido un impacto sign
 Aunque las ventajas son innegables, la implementación de IA también plantea desafíos ambientales:  
 
 - **Consumo energético:** Los centros de datos que soportan herramientas como Power BI requieren grandes cantidades de energía, contribuyendo a la huella de carbono.  
-- **Residuos electrónicos:** La rápida obsolescencia tecnológica genera residuos electrónicos difíciles de gestionar adecuadamente.  
+- **Residuos electrónicos:** La rápida obsolescencia tecno lógica genera residuos electrónicos difíciles de gestionar adecuadamente.  
 
 ## Propuestas para minimizar los impactos ambientales  
 Para mitigar los impactos ambientales asociados al uso de IA, se pueden implementar las siguientes medidas:  
@@ -74,4 +74,9 @@ Para mitigar los impactos ambientales asociados al uso de IA, se pueden implemen
 ## Conclusión  
 Power BI, con sus capacidades de IA integrada, ha transformado el análisis de datos, permitiendo a las empresas ser más eficientes, innovadoras y ágiles. Sin embargo, es crucial abordar los impactos ambientales asociados a estas tecnologías mediante propuestas sostenibles y responsables, garantizando así un equilibrio entre el progreso tecnológico y la preservación del medio ambiente.  
 
+<br>
+
+*<span style='color:grey'> Referencia: </span>*
+
+- [https://www.microsoft.com/es-es/power-platform/products/power-bi](https://www.microsoft.com/es-es/power-platform/products/power-bi)
   
