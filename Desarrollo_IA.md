@@ -35,7 +35,7 @@ Estas funcionalidades no solo aceleran el desarrollo, sino que también permiten
 
 Para más información sobre GitHub Copilot pulsa [aquí](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot). 
 <div>
-<img src="./interfazCop.png" alt="Imagen Copitlot" style="border-radius: 10px;">
+<img src="./interfazCop.png" alt="Imagen Copitlot" style="border-radius: 10px; width: 100%">
 </div>
 
 ## Impacto al Sector
