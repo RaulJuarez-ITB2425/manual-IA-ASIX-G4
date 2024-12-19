@@ -20,7 +20,7 @@ La inteligencia artificial (IA) en el ámbito del desarrollo de software está t
 ## Aplicaciones de la IA
 
 <div style="margin-left: 20px;">
-  <img src="../Imagenes/LogoGitHubCopitlot.png" alt="Logo de GitHub Copilot" width="200" style="float: right; margin-left: 20px;">
+  <img src="./LogoGitHubCopitlot.png" alt="Logo de GitHub Copilot" width="200" style="float: right; margin-left: 20px;">
 
   Un ejemplo destacado de IA aplicada al desarrollo de software es **GitHub Copilot**, que te ayuda a escribir código más rápido y con menos esfuerzo. 
 
@@ -36,7 +36,7 @@ La inteligencia artificial (IA) en el ámbito del desarrollo de software está t
 
   Para más información sobre GitHub Copilot pulsa [aquí](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot).
 </div>
-<img src="../Imagenes/interfazCop.png" alt="Imagen Copitlot" style="border-radius: 10px;">
+<img src="./interfazCop.png" alt="Imagen Copitlot" style="border-radius: 10px;">
 
 ## Impacto al Sector
 El impacto de la IA en el desarrollo de software es notable por los siguientes motivos:
