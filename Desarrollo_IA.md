@@ -37,6 +37,7 @@ Para más información sobre GitHub Copilot pulsa [aquí](https://docs.github.co
 <div>
 <img src="./interfazCop.png" alt="Imagen Copitlot" style="border-radius: 10px;">
 </div>
+
 ## Impacto al Sector
 El impacto de la IA en el desarrollo de software es notable por los siguientes motivos:
 
