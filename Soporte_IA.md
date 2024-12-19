@@ -17,21 +17,21 @@
 ## Introducción
 
 Actualmente, la tecnología está presente en todos los aspectos de nuestra vida diaria, desde los smartphones hasta las Smart TV. Estamos rodeados de tecnología, pero no todo es siempre perfecto, ya que también pueden ocurrir errores. 
-
-<img src="https://www.enriquedans.com/wp-content/uploads/2024/09/Evolution-of-AI.jpg" alt="Evolución" widht="500" height="200">
-
+<div style='text-align: center; widh'> 
+<img src="https://www.enriquedans.com/wp-content/uploads/2024/09/Evolution-of-AI.jpg" alt="Evolución" width="500" >
+</div>
 Por ello, existen call centers y soporte técnico para resolver problemas o dudas. Sin embargo, debido a la alta demanda de asistencia, a veces no hay suficientes personas para cubrir todos los casos. Algunas llamadas tienen mayor prioridad que otras, lo que puede generar tiempos de espera. Es en este contexto donde entra la Inteligencia Artificial (IA), que ha revolucionado el sector en los últimos años.
 
-La IA se enfoca en crear sistemas capaces de realizar tareas, tanto básicas como avanzadas, que normalmente requieren de inteligencia o manipulación humana. Gracias a la IA, no necesitamos estar pendientes todo el tiempo, ya que estos sistemas pueden aprender, ver, analizar datos, entre otras cosas, de manera autónoma.# Inteligencia Artificial en el Campo de la Informática: Soporte Técnico
+La IA se enfoca en crear sistemas capaces de realizar tareas, tanto básicas como avanzadas, que normalmente requieren de inteligencia o manipulación humana. Gracias a la IA, no necesitamos estar pendientes todo el tiempo, ya que estos sistemas pueden aprender, ver, analizar datos, entre otras cosas, de manera autónoma. Inteligencia Artificial en el Campo de la Informática: Soporte Técnico
 
 ## Aplicaciones de IA
 
 **FreshDesk**
 La empresa FreshDesk ofrece distintos servicios, muchos de ellos estan en el campo de soporte tecnico.
 A contrinuacion indicare que servicios ofrece, una pequeña descripcion y como se aplica la IA o que funcionaliades tiene en ese servicio en concreto
-
+<div style='text-align: center;'> 
 <img src="https://www.gb-advisors.com/wp-content/uploads/2017/06/freshworks.png" alt="FreshDesk" width="450" height="350">
-
+</div>
 ## Servicios
 
 1. **FreshDesk**  
@@ -44,27 +44,28 @@ A contrinuacion indicare que servicios ofrece, una pequeña descripcion y como s
    Freddy AI Copilot --> Los agentes de atencion al cliente les agradecera ya que esta IA se encarga de resumir el problema si hay informacion que se pueda omitir, nos indica sugerencias para la solucion e incluso los siguientes pasos que debemos de seguir.
    
    Freddy AI Insights (Beta) --> Los directivos podran obtener informacion en tiempo real, gracias a este asistete de IA, ya que ofrece, analsis, infomres, e incluso responder a preguntas que tengamos, todo esto en vivo.
-
+<div style='text-align: center;'> 
 <img src="https://salesdorado.com/wp-content/uploads/2022/03/Capture-de%CC%81cran-2022-03-14-a%CC%80-00.10.37.jpg" alt="FreshDesk" widht="500" height="400">
+</div>
 2. **FreshDesk Omni**  
    FreshDesk Omni es una versión extendida de FreshDesk que incluye capacidades de omnicanalidad. Permite gestionar tickets, crear, personalizarla o inlcuso asignar un nombre o dirigirlo al grupo que corresponde. 
-
+<div style='text-align: center;'> 
    <img src="https://financesonline.com/uploads/2024/10/Freshdesk-Omni-Main-Thumbnail-440x180-1.png" alt="FreshDesk_Omni" width="600" height="400">
-
+</div>
 3. **FreshChat**  
    FreshChat es una herramienta de chat en vivo que permite a las empresas comunicarse con sus clientes en tiempo real. Ofrece integración con otras plataformas de FreshDesk, y también incluye características como respuestas automáticas, chatbots, y segmentación de usuarios para mejorar la experiencia del cliente.
    Ademas de incluir las mismas IA que antes, tambien dispondemos de una modaldiad de generar un texto, ya sea un textop ya creado y que lo mejore, corrija las faltas de ortografia etc.
    O un texto desde cero, le podremos indicar puntos importantes o informacion relevantes que debe de tener y te lo generara automaticamente, pero no te preocupes, no tendras que esperar, esto se hara al instante.
-
+<div style='text-align: center;'> 
    <img src="https://www.smbguide.com/wp-content/uploads/2024/03/freshchat-review.png" alt="FreshChat" width="500" height="400">
-
+</div>
 
 4. **FreshCaller**  
    FreshCaller es un sistema de telefonía en la nube que se integra con FreshDesk y FreshChat. Permite gestionar llamadas de soporte al cliente, establecer horarios de atención, grabar llamadas, y realizar informes detallados sobre las interacciones telefónicas con los clientes.
    Ademas tener una IA que la podemos congiruar para que respondan las preguntas mas frecuentes, con esto reduciremos el tiempo de espera.
-
+<div style='text-align: center;'> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRly4lKtRuB3UinKg9x_IBxMOSPrCtpjH6c-w&s" alt="FreshCaller" widht="500" height="500">
-
+</div>
 ## Impacto al Sector
 
 El impacto que tenemos con la IA en este sector son muchos beneficios a nivel interno, a nivel empresarial, aunque si es verdad que debemos de tener en cuenta que estos servicios, dependiendo de que empresa y las caracterisitcas que tenga tendra un precio mas o menos elevado.
@@ -101,6 +102,8 @@ Sin embargo, debemos ser conscientes de los impactos ambientales de estas tecnol
     
 En resumen, la Inteligencia Artificial en el soporte técnico no solo mejora la eficiencia y la satisfacción del cliente, sino que también presenta desafíos ambientales que debemos abordar con responsabilidad. Con un enfoque equilibrado, podemos aprovechar al máximo las ventajas de la IA mientras mitigamos sus impactos negativos, asegurando un futuro más sostenible y eficiente para el sector del soporte técnico.
 
+<br>
 
-[Arriba](#índice)
-     
+*<span style='color:grey'> Referencia: </span>*
+
+- [https://www.freshworks.com/es/](https://www.freshworks.com/es/)
