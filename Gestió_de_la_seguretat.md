@@ -94,3 +94,10 @@ Para mitigar los efectos ambientales de la IA en la gestión de la seguridad, se
 ## Conclusión
 
 La inteligencia artificial está redefiniendo la gestión de la seguridad en la informática, ofreciendo soluciones más rápidas, inteligentes y efectivas para proteger sistemas y datos. Sin embargo, es crucial abordar los retos ambientales que esta tecnología trae consigo, implementando estrategias sostenibles que aseguren un futuro más seguro y respetuoso con el medio ambiente.
+
+
+<br>
+
+*<span style='color:grey'> Referencia: </span>*
+
+- [https://www.deepinstinct.com/](https://www.deepinstinct.com/)
